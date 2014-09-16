@@ -1,7 +1,7 @@
 ## 关于第一届 CSS Conf China
 
-推荐讲师：[猛击](https://github.com/css-conf/1/issues)
-官方网站：设计中...
+- 推荐讲师：[猛击](https://github.com/css-conf/1/issues)
+- 官方网站：设计中...
 
 随着 CSS 的发展，她已经不仅仅是替代 HTML 属性或标签来描述页面样式的简单语言。从代替 Table 来进行布局，到利用响应式的 CSS 布局来适配形形式式的屏幕；从无章无法到模块化，甚至到 SCSS / Stylus 这些有变量的预处理器；从高级选择器到动画处理，再到像 Google Material Design 页面间转场效果的应用；从 CSS icons sprite 到 icon font，再到 svg / canvas 的应用；等等。她已经不是原来的她。
 
